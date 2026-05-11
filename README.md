@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonia Ndan</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate Sofgtware Developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soniandan&label=Profile%20views&color=0e75b6&style=flat" alt="soniandan" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **software engineering**
 
-- 👯 I’m looking to collaborate on **full-stack web projects**
+- 👯 I’m looking to collaborate on **full-stack web and app projects**
 
-- 🤝 I’m looking for help with **Software engineering**
+- 🤝 I’m looking for help with **SEOs and API Integrations**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/sonia-ndan-01724b350](https://www.linkedin.com/in/sonia-ndan-01724b350)
 
-- 💬 Ask me about **php, laravel**
+- 💬 Ask me about **PHP, Laravel, React, MSQL, POSTgress**
 
 - 📫 How to reach me **soniaamarach24@gmail.com**
 
