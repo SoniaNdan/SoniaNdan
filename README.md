@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soniandan" alt="soniandan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/soniaamy24" target="blank"></a> </p>
+<p align="left"> <a href="https://twitter.com/https://x.com/soniaamy24" target="blank"> <img src="https://www.flaticon.com/free-icon/twitter_5968830?term=twitter+x+logo&page=1&position=71&origin=search&related_id=5968830" /></a> </p>
 
 - 🌱 I’m currently learning **software engineering**
 
